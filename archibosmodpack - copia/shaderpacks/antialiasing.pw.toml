@@ -1,0 +1,8 @@
+name = "AntiAliasing"
+filename = "Anti Aliasing (TAA, FXAA) - v1.0.7.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Anti%20Aliasing%20(TAA,%20FXAA)%20-%20v1.0.7.zip"
+hash-format = "sha256"
+hash = "9eea81b54491c22dc5e0b75aacc9e3c1c53328ecce9f329213c4f929cb1aa22a"

@@ -1,0 +1,8 @@
+name = "GentlerWeather"
+filename = "Gentler Weather Sounds 2.2.0.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Gentler%20Weather%20Sounds%202.2.0.zip"
+hash-format = "sha256"
+hash = "9198b0932e19def4795240cb4863b61a65f606fc66f9eb3cafeff1fbebb434cf"

@@ -1,0 +1,8 @@
+name = "BetterLanterns"
+filename = "Better+Lanterns+v1.2(mc-1.21).zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Better+Lanterns+v1.2(mc-1.21).zip"
+hash-format = "sha256"
+hash = "2b1c802be7207ac488c071ba79f54ea44227bd5d7d815f16a710a4e25da8d385"

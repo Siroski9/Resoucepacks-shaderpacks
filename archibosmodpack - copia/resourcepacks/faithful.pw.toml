@@ -1,0 +1,8 @@
+name = "Faithful"
+filename = "Faithful 64x - Release 6.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Faithful%2064x%20-%20Release%206.zip"
+hash-format = "sha256"
+hash = "ba28248289cf0ca2b4021cb90de1e1712dc1d7079f2fe1d250cb03b494c5f79f"

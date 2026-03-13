@@ -1,0 +1,8 @@
+name = "Kappa"
+filename = "Kappa_v5.3.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Kappa_v5.3.zip"
+hash-format = "sha256"
+hash = "7748c7884d593fcebc23863bd4bad1fbae9fadb9cebc73165290d4705b89fe9d"

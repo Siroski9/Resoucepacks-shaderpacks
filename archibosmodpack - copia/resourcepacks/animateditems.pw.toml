@@ -1,0 +1,8 @@
+name = "AnimatedItems"
+filename = "animated-items 1.21.x - v1.5.5.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/animated-items%201.21.x%20-%20v1.5.5.zip"
+hash-format = "sha256"
+hash = "642465374a8ff94d8335325a947881d7249e96805b9e45b8ed35c0d953ad03d3"

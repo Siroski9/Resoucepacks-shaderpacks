@@ -1,0 +1,8 @@
+name = "BetterLeaves"
+filename = "Better-Leaves-9.5.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Better-Leaves-9.5.zip"
+hash-format = "sha256"
+hash = "5480640cb2f7674da4f2897ebc48b29a436706614160f4d4d8ad0ead5150fea6"

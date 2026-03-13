@@ -1,0 +1,8 @@
+name = "3DDefault"
+filename = "3D Default 1.20+ v1.13.0.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/3D%20Default%201.20+%20v1.13.0.zip"
+hash-format = "sha256"
+hash = "70b2c25d25d51c706d8ef79e458d2806a15ebebb736fcd98487938e195778efa"

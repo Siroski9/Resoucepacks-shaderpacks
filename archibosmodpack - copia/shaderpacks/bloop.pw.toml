@@ -1,0 +1,8 @@
+name = "Bloop"
+filename = "Bloop-1.8.0-Alpha-2.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Bloop-1.8.0-Alpha-2.zip"
+hash-format = "sha256"
+hash = "3e6b1e533ddb3c7c5dfed65c37d475550dda6d36352314e0e9545eb0568d9fff"

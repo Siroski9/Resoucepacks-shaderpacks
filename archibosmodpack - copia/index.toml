@@ -1,0 +1,246 @@
+hash-format = "sha256"
+
+[[files]]
+file = "resourcepacks/3ddefault.pw.toml"
+hash = "6d45196b0d24c4f2cc9ba1f209ef8534dc855d19d7d6f0792e14315e12194036"
+metafile = true
+
+[[files]]
+file = "resourcepacks/animateditems.pw.toml"
+hash = "9fbace90f25b1be698a66d37a7fd3779374abced320460a0bee6f52f61aa5eb2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/avpbr.pw.toml"
+hash = "fc283a8bdd72a8c2471d84aad635a705e7273ccc028fad6684c6f5ad63bcd6d4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/betterlanterns.pw.toml"
+hash = "78450bec1c963950b92d738dde7d3d1508ed9cd2affb8aa6f81795cc445d3e10"
+metafile = true
+
+[[files]]
+file = "resourcepacks/betterleaves.pw.toml"
+hash = "33a3cf51b05565674f1eba255e50580df762f4a40c11da74d21698dddcfc7efa"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful.pw.toml"
+hash = "d421b53041f6d8b4470f88246d8e2447a8aa0988909cc9c16c21bde33490102c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancybeds.pw.toml"
+hash = "8b0b1aa9abd2d7681b03d799605afab8fbcf41d298a221fc3100d3c2edeb7fb8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/freshanimations.pw.toml"
+hash = "03cdbbe3f50650c52c1f1026f5cf235fec063aaa556f05006c9b459dfd2ae41a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gentlerweather.pw.toml"
+hash = "e994ea35e9b994a09c8c1b338deb319b74c12cdf11666612a268b883b18093c5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ilikevanilla.pw.toml"
+hash = "03a0f57221d5ea9af52f45a063a658685665e06c74acae89b9d6cbced237076e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/lowonfire.pw.toml"
+hash = "365de2f86f544c8bdb4cc1b4a615c544ba889312e38ebb6cb6d794a93328a418"
+metafile = true
+
+[[files]]
+file = "resourcepacks/patrix.pw.toml"
+hash = "25dfe769611fc71659bf8d125e1427ca84b04705f2e795a320fa0a575965d7a0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pixelperfect.pw.toml"
+hash = "051d04445102fb1f756f478f48f6d004e3517f31c0e83b2ee94cf5576b6d15c7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simplyupscaled.pw.toml"
+hash = "52989e8f06e7bbda8d17937fbd44634d0b2eaebd0ddc328aff2348bddada5c0c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/smallshield.pw.toml"
+hash = "b7a67cba76e5c68a36d9824aef96e73fc036fca79fb6e1aaf0c2848caec46710"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stratum.pw.toml"
+hash = "b4c61206730f3bfc1fe924d0c9786a80c8cabb72ef54df27846efb064aaa0ddd"
+metafile = true
+
+[[files]]
+file = "shaderpacks/antialiasing.pw.toml"
+hash = "f7bfe76b137c0e936c60158850b2b3665b8dfa112f32282c1d82367186ee9e07"
+metafile = true
+
+[[files]]
+file = "shaderpacks/aurora.pw.toml"
+hash = "f451710c027543380c98e1c398d045ab4ce81927e55f4f3805854e12a6f6270d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/blissedit.pw.toml"
+hash = "aecd76081b5bb367669cb3d348e574ab7b3e4d04e550454f0e8adfe229a35e3f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/blissmain.pw.toml"
+hash = "fda8107e2e5cf6c90d18eb4fd3be6ed1a455c075efd97383ed67e8f3662d126f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bloop.pw.toml"
+hash = "baf4addf8ff24c0d0c83af9b5cc1e24a6f1448401745c507743db0f744c68329"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl.pw.toml"
+hash = "73a245d6def0298a98872f2d4454fb8c61c39fbd919b25a12b6ea02eead3f138"
+metafile = true
+
+[[files]]
+file = "shaderpacks/continuum.pw.toml"
+hash = "14e88653b37a217dde3bdc27ebec5cfb721ecb3aaff90f86403fa0a545395155"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ctrvcr.pw.toml"
+hash = "c2b5739cfcffe880809d14119067e266c32f51ac1d2db2d62179a51ef83d5fc2"
+metafile = true
+
+[[files]]
+file = "shaderpacks/cursedfog.pw.toml"
+hash = "7dc7de1252785fbed87399ec3b290af21ae9452551a3be587a484d07703c2ded"
+metafile = true
+
+[[files]]
+file = "shaderpacks/daybreak.pw.toml"
+hash = "937679f37b39b20d11bb423505ab53c895e1d8553335f775a5a7d1a5167e02f5"
+metafile = true
+
+[[files]]
+file = "shaderpacks/derivative.pw.toml"
+hash = "0ce7097e32b07bdb86efe2975ceb167c629cbfb71a9294c6651cf2c4e8cfce8f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/eclipse.pw.toml"
+hash = "b12ff64036e36347ae5ea46a2e09878c7de1bce062984a7cb8966bbf50f618cf"
+metafile = true
+
+[[files]]
+file = "shaderpacks/hysteria.pw.toml"
+hash = "334f31f582aada410c3eab90c7cfa88913e101044b4b746e3f19511d649aa302"
+metafile = true
+
+[[files]]
+file = "shaderpacks/iterationrp.pw.toml"
+hash = "a915a19e956338692678de3d30b49437c994ed990f7088479c03afedc6e24274"
+metafile = true
+
+[[files]]
+file = "shaderpacks/iterationt.pw.toml"
+hash = "3ab83fa0e97948c7fb541132efee08499ee15262873a88c8931fe62473195757"
+metafile = true
+
+[[files]]
+file = "shaderpacks/kappa.pw.toml"
+hash = "8a11d5fb0ff2f86f63b9ab5e7f6c9a1805378924b2834cc6c908247329d6c2ce"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup.pw.toml"
+hash = "86533ed181a68948f2403cc08613567d1471c0418b4097515644cf5c95f96f91"
+metafile = true
+
+[[files]]
+file = "shaderpacks/mellow.pw.toml"
+hash = "8f8f50adb02f45c6d8968fa6225875ef4d428d4cf4b85b4dedf1b97b02b88d5a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/mist.pw.toml"
+hash = "9077611c6a33e18cee4840d04d26ac4116946268cf1f70aaab233e888baa060d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/noble.pw.toml"
+hash = "d90af45365f9e37bb29cdbc5cffed2b5d33b5f95f16486c424d7d308c03aae41"
+metafile = true
+
+[[files]]
+file = "shaderpacks/pegasus.pw.toml"
+hash = "8a5ea3bfe2242cda38ecf696012319c4bcaccf3b4b7840f954845625a741a15b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon.pw.toml"
+hash = "e60e72494f0de844748fe0d49b01d60209da8da518f1458ee8464cd6916c2233"
+metafile = true
+
+[[files]]
+file = "shaderpacks/psx.pw.toml"
+hash = "3476cd985e2a972e42422dd7f46e8e58c8afb8f9accb19ba124ee96baf738351"
+metafile = true
+
+[[files]]
+file = "shaderpacks/reimagined.pw.toml"
+hash = "14633703875f8066ef61827a1d3377d5a801ae3d5c26140fbaf5d3e7dbaa2daf"
+metafile = true
+
+[[files]]
+file = "shaderpacks/seus.pw.toml"
+hash = "b771679ff3d2692d14301102d456f02998e10e8a1781c9ae15505b493b6828f4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/shrimple.pw.toml"
+hash = "978300346c264bc5f2a1c750e5b292973908c3b214e1b2e48bf84fe9b1156dc6"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs.pw.toml"
+hash = "8a705db9f03693f40208e3599181c872a8e56e86e17db79366a978e389b65634"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas.pw.toml"
+hash = "759dcc0f307514d12428a7129a8d9cda2fcb49c0a584898fa1d39837f8c253d4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/superduper.pw.toml"
+hash = "ca33f245dac8ffadfb37127d09065f53089c6148657315b7043c24d025ee6d63"
+metafile = true
+
+[[files]]
+file = "shaderpacks/unbound.pw.toml"
+hash = "4ebdcffabba4c1c1822fc755e2fb024f84c09397713c621a2d0e9f2bf070f95a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/vanillaplus.pw.toml"
+hash = "7663566b0f656a861846bc28704f33527c86d3144cb7ca6da8ccb421862acf9f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/voxels.pw.toml"
+hash = "203b514c543e9f9a795d9e65a38389dc342b91f36c4a109a0f55156ff0068309"
+metafile = true
+
+[[files]]
+file = "shaderpacks/vtxs.pw.toml"
+hash = "42776dbaa716dfd93b576197288fbb67afea14e44b40c561781d8d5666fb4900"
+metafile = true

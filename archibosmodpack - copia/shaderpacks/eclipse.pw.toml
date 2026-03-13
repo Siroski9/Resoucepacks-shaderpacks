@@ -1,0 +1,8 @@
+name = "Eclipse"
+filename = "Eclipse-Shader-Unstable.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Eclipse-Shader-Unstable.zip"
+hash-format = "sha256"
+hash = "b6812550566d627b17622604dc28dc1ceb48e36b0f83c9747c11e82ea8395b4e"

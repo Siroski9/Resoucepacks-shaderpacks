@@ -1,0 +1,8 @@
+name = "SimplyUpscaled"
+filename = "Simply_Upscaled (v0.4.5).zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Simply_Upscaled%20(v0.4.5).zip"
+hash-format = "sha256"
+hash = "2cd7844c766289b420ae9d09b7f51f6a4e86d0135fd702199f30c3413e235cf2"

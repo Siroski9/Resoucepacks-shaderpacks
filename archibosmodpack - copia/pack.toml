@@ -1,0 +1,13 @@
+name = "Shader Are Amazing!"
+author = "Siroski48"
+version = "1.2.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9edf646e40dcf0b1a3016989d305370b181d80dc3f0f13342bed6b7151af802c"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"

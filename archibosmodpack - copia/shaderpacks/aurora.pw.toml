@@ -1,0 +1,8 @@
+name = "Aurora"
+filename = "Aurora's Shaders.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Aurora's%20Shaders.zip"
+hash-format = "sha256"
+hash = "3bd9576c623f00065e4c58a765f74845158f6d4e97bd98b0a8f7277c89002f98"

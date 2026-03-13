@@ -1,0 +1,8 @@
+name = "Pegasus"
+filename = "Pegasus (v0.3.9a).zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Pegasus%20(v0.3.9a).zip"
+hash-format = "sha256"
+hash = "81490ff6514824bb23e1242ca202551162622b3252f8a7e54b3eb84cbac69c2f"

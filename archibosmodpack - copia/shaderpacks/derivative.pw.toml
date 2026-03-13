@@ -1,0 +1,8 @@
+name = "Derivative"
+filename = "Derivative-Main-d24.4.4.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Derivative-Main-d24.4.4.zip"
+hash-format = "sha256"
+hash = "1c818ca2accc57d47f3191a2ab5b2b1305b05e1373db95588e7de4735f9d848b"

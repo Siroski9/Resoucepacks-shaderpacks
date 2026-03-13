@@ -1,0 +1,8 @@
+name = "Sildurs"
+filename = "Sildur's Vibrant Shaders v1.52 Lite.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Sildur's%20Vibrant%20Shaders%20v1.52%20Lite.zip"
+hash-format = "sha256"
+hash = "1d49d456b2dad25cfd3a85943992bb0a20ed39ef9a4430a6de5a0fe094ca9a49"

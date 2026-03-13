@@ -1,0 +1,8 @@
+name = "AVPBR"
+filename = "AVPBR Retextured R6.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/AVPBR%20Retextured%20R6.zip"
+hash-format = "sha256"
+hash = "306fcbc2fb9f2b37dfb73b093832763a2bb21753f666792570726207b112b0bd"

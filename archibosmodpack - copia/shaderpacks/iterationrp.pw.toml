@@ -1,0 +1,8 @@
+name = "IterationRP"
+filename = "IterationRP-Shaders-All-Versions-0.7.7.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/IterationRP-Shaders-All-Versions-0.7.7.zip"
+hash-format = "sha256"
+hash = "634646f8e713a8ed86e9db4415d0ffc31022f193d519ee4cd144fefae8481c04"

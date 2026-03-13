@@ -1,0 +1,8 @@
+name = "Noble"
+filename = "Noble v1.8.9.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Noble%20v1.8.9.zip"
+hash-format = "sha256"
+hash = "4b34d7dd1836bc1d0563e18419b93ec6e443f40f39c1af4d17789284cca68e52"

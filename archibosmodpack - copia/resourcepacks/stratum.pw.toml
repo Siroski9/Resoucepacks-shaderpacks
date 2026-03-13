@@ -1,0 +1,8 @@
+name = "Stratum"
+filename = "stratum-128x.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/stratum-128x.zip"
+hash-format = "sha256"
+hash = "c1935db91c9251650935c82f5cf44bfdafbedee3bae87b81c4c35ad4d5a0ae1a"

@@ -1,0 +1,8 @@
+name = "Patrix"
+filename = "Patrix_1.21_32x_basic.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Patrix_1.21_32x_basic.zip"
+hash-format = "sha256"
+hash = "b03610de9b20be10141ca5136a253729a7d82950927b40a6df57285c35f1c993"

@@ -1,0 +1,8 @@
+name = "LowOnFire"
+filename = "LowOnFire 1.21.3.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/LowOnFire%201.21.3.zip"
+hash-format = "sha256"
+hash = "55ab1c3595da0d8174efe28c2ef9a35e49997a371c67bb7664e841d26954dc15"

@@ -1,0 +1,8 @@
+name = "VTXS"
+filename = "VTXS_Screen_Space_Demo_1.0.3.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/VTXS_Screen_Space_Demo_1.0.3.zip"
+hash-format = "sha256"
+hash = "2a52d4118d8544ccb9700a221e2631377867ce06795ecb59f571352afe4ca389"

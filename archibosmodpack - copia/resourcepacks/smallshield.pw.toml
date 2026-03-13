@@ -1,0 +1,8 @@
+name = "SmallShield"
+filename = "Small_Shield_&_Totem_2.11.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Small_Shield_&_Totem_2.11.zip"
+hash-format = "sha256"
+hash = "ff0badd6a7645912d1d719dc4bfdf473e4cfeb638a7df30083322d05c8f80660"

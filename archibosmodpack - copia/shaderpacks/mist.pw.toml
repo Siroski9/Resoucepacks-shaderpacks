@@ -1,0 +1,8 @@
+name = "MisT"
+filename = "MisTShaders.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/MisTShaders.zip"
+hash-format = "sha256"
+hash = "c68eb3245916cae89739a23b7d350cb1f645879be622c3d0dd892750f96e685e"

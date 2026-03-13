@@ -1,0 +1,8 @@
+name = "PixelPerfect"
+filename = "Pixel-Perfect-1-5-2a.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Pixel-Perfect-1-5-2a.zip"
+hash-format = "sha256"
+hash = "fc053f192ff881cc0d85eccce7164f09c5898b47362fe50a61f402b03f9e59a8"

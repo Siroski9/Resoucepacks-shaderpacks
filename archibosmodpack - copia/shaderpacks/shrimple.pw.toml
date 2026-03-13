@@ -1,0 +1,8 @@
+name = "Shrimple"
+filename = "Shrimple_v0.12.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Shrimple_v0.12.zip"
+hash-format = "sha256"
+hash = "702c2497ee23a62f84c920eb897730519e80db04522171a31dce1e9166fb92fb"

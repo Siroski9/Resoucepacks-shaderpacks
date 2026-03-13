@@ -1,0 +1,8 @@
+name = "BlissMain"
+filename = "Bliss-Shader-main.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Bliss-Shader-main.zip"
+hash-format = "sha256"
+hash = "179be60862310da15e66ebf1dc4af33228756fdc1f00b654323c69c6e1e14d54"

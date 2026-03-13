@@ -1,0 +1,8 @@
+name = "Daybreak"
+filename = "daybreak_0.2 .zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/daybreak_0.2%20.zip"
+hash-format = "sha256"
+hash = "34c287fe452cab113b9f53bbb042ecb72387ff8f398f01842fd96947a3d17f32"

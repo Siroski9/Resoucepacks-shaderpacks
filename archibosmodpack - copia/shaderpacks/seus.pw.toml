@@ -1,0 +1,8 @@
+name = "SEUS"
+filename = "SEUS PTGI HRR 3.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/SEUS%20PTGI%20HRR%203.zip"
+hash-format = "sha256"
+hash = "6bd4ee3489de276095022f9662d48fdd99318019079d3ee945eff0a9ab6f7d87"

@@ -1,0 +1,8 @@
+name = "ILikeVanilla"
+filename = "I Like Vanilla v1.3.2.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/I%20Like%20Vanilla%20v1.3.2.zip"
+hash-format = "sha256"
+hash = "47fd008d724d2a4cc129e87bb759c6dd246d96afe110610626b219440e0fb979"

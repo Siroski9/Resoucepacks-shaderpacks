@@ -1,0 +1,8 @@
+name = "BlissEdit"
+filename = "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
+hash-format = "sha256"
+hash = "f41db92acc585fe9ffe0cc124d6ecaea27cef9ded91129ebc2a8e60226947b2c"

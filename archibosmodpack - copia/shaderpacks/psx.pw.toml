@@ -1,0 +1,8 @@
+name = "PSX"
+filename = "PSX_Shader.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/PSX_Shader.zip"
+hash-format = "sha256"
+hash = "0d54bfd92e57164226c72e8f8a4f733c8806d648b1019a79c0b88afd8d2f1b88"

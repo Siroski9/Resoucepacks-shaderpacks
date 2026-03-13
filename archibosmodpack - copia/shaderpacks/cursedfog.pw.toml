@@ -1,0 +1,8 @@
+name = "CursedFog"
+filename = "Cursed Fog - V1.0.8.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Cursed%20Fog%20-%20V1.0.8.zip"
+hash-format = "sha256"
+hash = "3c524b44ba7a8c514bff3577a2ed9db9c91909016d860b8261c8617ee4d66f6a"

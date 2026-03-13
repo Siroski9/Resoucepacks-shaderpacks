@@ -1,0 +1,8 @@
+name = "Hysteria"
+filename = "Hysteria-Shaders-Universal-v1.2.1.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Hysteria-Shaders-Universal-v1.2.1.zip"
+hash-format = "sha256"
+hash = "cfad48537a3cbd7db219e29f07b24820c80322d5df656a9d087da5f8f9fc1df2"

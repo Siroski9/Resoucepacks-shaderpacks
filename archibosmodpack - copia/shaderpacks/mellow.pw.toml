@@ -1,0 +1,8 @@
+name = "Mellow"
+filename = "Mellow Shader v3.0.3.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Mellow%20Shader%20v3.0.3.zip"
+hash-format = "sha256"
+hash = "f7f0f3981c450c1ecc6cdeece07ccd4815063ce0f016b28cb86ce3e08eaf2453"

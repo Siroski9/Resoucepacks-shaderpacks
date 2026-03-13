@@ -1,0 +1,8 @@
+name = "Continuum"
+filename = "continuum-2.0.5.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/continuum-2.0.5.zip"
+hash-format = "sha256"
+hash = "e569b6075e8e7364e28b64f74887c43808ee4c1f4db5a3b679858b206d81087c"

@@ -1,0 +1,8 @@
+name = "Solas"
+filename = "Solas Shader V3.4.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/Solas%20Shader%20V3.4.zip"
+hash-format = "sha256"
+hash = "103af0c59ae6870dce532f7f70038039b2e172ddc9238178e7648d371c7713a0"

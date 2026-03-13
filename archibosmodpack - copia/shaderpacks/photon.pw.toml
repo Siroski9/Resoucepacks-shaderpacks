@@ -1,0 +1,8 @@
+name = "Photon"
+filename = "photon_v1.2a.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/photon_v1.2a.zip"
+hash-format = "sha256"
+hash = "a7134a10138f6e5fe523dafa23bd266ba2e53621ac65a5e23294fe9a125b9d73"

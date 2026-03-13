@@ -1,0 +1,8 @@
+name = "CTRVCR"
+filename = "CTR-VCR_v1.4.0.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/CTR-VCR_v1.4.0.zip"
+hash-format = "sha256"
+hash = "1932f78ef51f512cbd3d64623122c0644b8e0c58da689fc47ab49a5f071f6197"

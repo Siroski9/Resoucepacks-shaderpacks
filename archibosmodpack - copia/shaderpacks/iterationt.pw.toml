@@ -1,0 +1,8 @@
+name = "IterationT"
+filename = "IterationT-Shaders-v3.3.0-All-Versions.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Siroski9/Resoucepacks-shaderpacks/raw/master/IterationT-Shaders-v3.3.0-All-Versions.zip"
+hash-format = "sha256"
+hash = "556df4ca0117bdfeeba8e3acfb5603e9e452f8a97ec9cdfa38bbe19d27afcb19"
