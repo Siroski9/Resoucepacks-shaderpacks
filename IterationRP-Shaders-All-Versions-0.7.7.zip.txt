@@ -1,2 +1,0 @@
-#Sun Mar 01 13:31:24 CET 2026
-INFO_1=BT
